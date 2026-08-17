@@ -26,7 +26,7 @@ python3 orchestrator.py
 Without a key set, the pipeline still runs completely — it falls back to a
 small rule-based patch library so the demo works offline / in CI.
 
-## Architecture (maps directly to your slide 2/3)
+## Architecture 
 
 ```
  ┌─────────────┐     ┌────────────────┐     ┌──────────────────┐
