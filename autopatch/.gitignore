@@ -1,0 +1,9 @@
+# build artifacts
+vuln_target/buggy
+vuln_target/buggy_patched
+vuln_target/buggy_patched.c
+vuln_target/buggy_cpp
+*.pyc
+__pycache__/
+crash.json
+fuzzer/crash.json
